@@ -23,8 +23,18 @@ You can install `foofactors` like so:
 
     devtools::install_github("mjfrigaard/foofactors")
     #> Using github PAT from envvar GITHUB_PAT
-    #> Skipping install of 'foofactors' from a github remote, the SHA1 (7811e59c) has not changed since last install.
-    #>   Use `force = TRUE` to force installation
+    #> Downloading GitHub repo mjfrigaard/foofactors@HEAD
+    #> 
+    #>      checking for file ‘/private/var/folders/3p/wzkys03s6p1cvmn8yzm934400000gn/T/RtmpaUCKrn/remotesb930559c5490/mjfrigaard-foofactors-11266dc/DESCRIPTION’ ...  ✓  checking for file ‘/private/var/folders/3p/wzkys03s6p1cvmn8yzm934400000gn/T/RtmpaUCKrn/remotesb930559c5490/mjfrigaard-foofactors-11266dc/DESCRIPTION’
+    #>   ─  preparing ‘foofactors’:
+    #>      checking DESCRIPTION meta-information ...  ✓  checking DESCRIPTION meta-information
+    #>   ─  checking for LF line-endings in source and make files and shell scripts
+    #>   ─  checking for empty or unneeded directories
+    #>   ─  building ‘foofactors_0.0.0.9000.tar.gz’
+    #>      
+    #> 
+    #> Installing package into '/private/var/folders/3p/wzkys03s6p1cvmn8yzm934400000gn/T/RtmpOqZHRw/temp_libpathb726685c11a3'
+    #> (as 'lib' is unspecified)
 
 Quick demo
 ----------

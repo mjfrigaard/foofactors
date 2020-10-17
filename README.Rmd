@@ -26,7 +26,7 @@ Factors are a very useful type of variable in R, but they can also be very aggra
 
 You can install `foofactors` like so:
 
-```{r}
+```{r install_github}
 devtools::install_github("mjfrigaard/foofactors")
 ```
   
