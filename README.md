@@ -23,7 +23,7 @@ You can install `foofactors` like so:
 
     devtools::install_github("mjfrigaard/foofactors")
     #> Using github PAT from envvar GITHUB_PAT
-    #> Skipping install of 'foofactors' from a github remote, the SHA1 (da5b2fed) has not changed since last install.
+    #> Skipping install of 'foofactors' from a github remote, the SHA1 (7811e59c) has not changed since last install.
     #>   Use `force = TRUE` to force installation
 
 Quick demo
